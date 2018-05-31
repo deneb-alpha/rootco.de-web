@@ -1,4 +1,4 @@
-# rootco.de-web
-Jekyll blog hosted on rootco.de
+# https://deneb-alpha.github.io/
+Jekyll blog hosted on https://deneb-alpha.github.io/
 
-Based on [beautiful-jekyll](http://deanattali.com/beautiful-jekyll)
+Based on [rootco.de](https://github.com/sysrich/rootco.de-web)
